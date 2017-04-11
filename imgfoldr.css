@@ -6,23 +6,25 @@
 ******/
 
 
-html, body{
+@-moz-document domain(imgfoldr.com) {
+    html, body{
 	background: #101010 !important;
 	color: #c5c5c5;
-}
-.jumbotron {
-	background: #222 !important;
-	color: #c5c5c5;
-}
-.header {
-	background: #101010 !important;
-	color: #c5c5c5;
-}
-.thumbnail {
-	background: #222 !important;
-	color: #c5c5c5;
-	border: 1px solid #ddd;
-}
-.folder_name {
-	color: white;
+    }
+    .jumbotron {
+        background: #222 !important;
+        color: #c5c5c5;
+    }
+    .header {
+        background: #101010 !important;
+        color: #c5c5c5;
+    }
+    .thumbnail {
+        background: #222 !important;
+        color: #c5c5c5;
+        border: 1px solid #ddd;
+    }
+    .folder_name {
+        color: white;
+    }
 }
