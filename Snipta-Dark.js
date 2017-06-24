@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name        Snipta Dark Theme
-// @namespace   https://Github.com/Baker
+// @namespace   https://Github.com/Baker/Userscripts
 // @version     1.0
 // @description This is just a basic dark theme for Snipta.com. 
 // @include     http://snipta.com/*
 // @include     https://snipta.com/*
 // @author      Baker
 // @grant       GM_addStyle
+// @updateURL       https://github.com/Baker/Userscripts/raw/master/Snipta-Dark.js
+// @downloadURL     https://github.com/Baker/Userscripts/raw/master/Snipta-Dark.js
 // ==/UserScript==
 
 GM_addStyle(`
