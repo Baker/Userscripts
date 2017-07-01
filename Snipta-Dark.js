@@ -7,8 +7,8 @@
 // @include     https://snipta.com/*
 // @author      Baker
 // @grant       GM_addStyle
-// @updateURL       https://github.com/Baker/Userscripts/raw/master/Snipta-Dark.js
-// @downloadURL     https://github.com/Baker/Userscripts/raw/master/Snipta-Dark.js
+// @updateURL   https://github.com/Baker/Userscripts/raw/master/Snipta-Dark.js
+// @downloadURL https://github.com/Baker/Userscripts/raw/master/Snipta-Dark.js
 // ==/UserScript==
 
 GM_addStyle(`
